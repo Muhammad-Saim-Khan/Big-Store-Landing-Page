@@ -1,0 +1,39 @@
+.header {
+  background-color: #333e48;
+}
+.img1 {
+  background-image: url(images/CategoryImages/sub-banner-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img2 {
+  background-image: url(images/CategoryImages/sub-banner-2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img3 {
+  background-image: url(images/CategoryImages/sub-banner-3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img4 {
+  background-image: url(images/CategoryImages/cms-banner-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img5 {
+  background-image: url(images/CategoryImages/cms-banner-2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img6 {
+  background-image: url(images/offer-banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
